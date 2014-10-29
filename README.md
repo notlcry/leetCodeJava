@@ -10,9 +10,9 @@ the java implementing of the LeetCode
 |[Reverse Words in a String](https://oj.leetcode.com/problems/reverse-words-in-a-string/)| [Java](./src/reverseWordsInAString/reverseWordsInAString.cpp)|2014/3/5|Medium|
 |[Evaluate Reverse Polish Notation](https://oj.leetcode.com/problems/evaluate-reverse-polish-notation/)| [Java](./src/evaluateReversePolishNotation/evaluateReversePolishNotation.cpp)|2013/11/27|Medium|
 |[Max Points on a Line](https://oj.leetcode.com/problems/max-points-on-a-line/)| [Java](./src/maxPointsOnALine/maxPointsOnALine.cpp)|2013/11/22|Hard|
-|[Sort List](https://oj.leetcode.com/problems/sort-list/)| [C++](./src/sortList/sortList.cpp)|2013/11/16|Medium|
+|[Sort List](https://oj.leetcode.com/problems/sort-list/)| [Java](./src/sortList/sortList.cpp)|2013/11/16|Medium|
 |[Insertion Sort List](https://oj.leetcode.com/problems/insertion-sort-list/)| [Java](./src/insertionSortList/insertionSortList.cpp)|2013/11/12|Medium|
-|[LRU Cache](https://oj.leetcode.com/problems/lru-cache/)| [C++](./src/LRUCache/LRUCache.cpp)|2013/11/9|Hard|
+|[LRU Cache](https://oj.leetcode.com/problems/lru-cache/)| [Java](./src/LRUCache/LRUCache.cpp)|2013/11/9|Hard|
 |[Binary Tree Postorder Traversal](https://oj.leetcode.com/problems/binary-tree-postorder-traversal/)| [Java](./src/binaryTreePostorderTraversal/binaryTreePostorderTraversal.cpp)|2013/11/7|Hard|
 |[Binary Tree Preorder Traversal](https://oj.leetcode.com/problems/binary-tree-preorder-traversal/)| [Java](./src/binaryTreePreorderTraversal/binaryTreePreorderTraversal.cpp)|2013/11/5|Medium|
 |[Reorder List](https://oj.leetcode.com/problems/reorder-list/)| [Java](./src/reorderList/reorderList.cpp)|2013/11/2|Medium|
